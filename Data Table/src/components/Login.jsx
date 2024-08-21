@@ -31,6 +31,7 @@ const Login = () => {
         <input onChange={(e)=>setpassword(e.target.value)} type="password" placeholder='Enter Your Password' />
         <input type="submit" />
       </form>
+      <h6>eve.holt@reqres.in</h6>
       </div>
     </div>
   )
